@@ -1,0 +1,102 @@
+#16/03/2006 12:31:38 PM - Activity_Logger:System.ArgumentException: Empty path name is not legal.
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at Folder_Listing_With_Size_Report.Main_Screen.Report_Generator(String Message, String Filename) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 481
+#16/03/2006 12:33:13 PM - Report_Generator:System.ArgumentException: Empty path name is not legal.
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at Folder_Listing_With_Size_Report.Main_Screen.Report_Generator(String Message, String Filename) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 487
+#16/03/2006 12:33:24 PM - Report_Generator:System.ArgumentException: Empty path name is not legal.
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at Folder_Listing_With_Size_Report.Main_Screen.Report_Generator(String Message, String Filename) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 487
+#16/03/2006 12:33:35 PM - Report_Generator:System.ArgumentException: Empty path name is not legal.
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at Folder_Listing_With_Size_Report.Main_Screen.Report_Generator(String Message, String Filename) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 487
+#16/03/2006 12:33:46 PM - Report_Generator:System.ArgumentException: Empty path name is not legal.
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at Folder_Listing_With_Size_Report.Main_Screen.Report_Generator(String Message, String Filename) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 487
+#16/03/2006 12:33:58 PM - Report_Generator:System.ArgumentException: Empty path name is not legal.
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at Folder_Listing_With_Size_Report.Main_Screen.Report_Generator(String Message, String Filename) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 487
+#16/03/2006 12:34:09 PM - Report_Generator:System.ArgumentException: Empty path name is not legal.
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at Folder_Listing_With_Size_Report.Main_Screen.Report_Generator(String Message, String Filename) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 487
+#16/03/2006 12:34:20 PM - Report_Generator:System.ArgumentException: Empty path name is not legal.
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at Folder_Listing_With_Size_Report.Main_Screen.Report_Generator(String Message, String Filename) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 487
+#16/03/2006 12:34:31 PM - Report_Generator:System.ArgumentException: Empty path name is not legal.
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at Folder_Listing_With_Size_Report.Main_Screen.Report_Generator(String Message, String Filename) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 487
+#16/03/2006 12:34:42 PM - Report_Generator:System.ArgumentException: Empty path name is not legal.
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at Folder_Listing_With_Size_Report.Main_Screen.Report_Generator(String Message, String Filename) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 487
+#16/03/2006 12:34:53 PM - Report_Generator:System.ArgumentException: Empty path name is not legal.
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at Folder_Listing_With_Size_Report.Main_Screen.Report_Generator(String Message, String Filename) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 487
+#16/03/2006 12:35:04 PM - Report_Generator:System.ArgumentException: Empty path name is not legal.
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at Folder_Listing_With_Size_Report.Main_Screen.Report_Generator(String Message, String Filename) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 487
+#16/03/2006 12:35:15 PM - Report_Generator:System.ArgumentException: Empty path name is not legal.
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at Folder_Listing_With_Size_Report.Main_Screen.Report_Generator(String Message, String Filename) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 487
+#16/03/2006 12:35:26 PM - Report_Generator:System.ArgumentException: Empty path name is not legal.
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at Folder_Listing_With_Size_Report.Main_Screen.Report_Generator(String Message, String Filename) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 487
+#16/03/2006 01:04:13 PM - MainWorkerFunction:System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Folder_Listing_With_Size_Report.Main_Screen.MainWorkerFunction(String input, BackgroundWorker worker, DoWorkEventArgs e) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 485
+#16/03/2006 01:04:23 PM - MainWorkerFunction:System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Folder_Listing_With_Size_Report.Main_Screen.MainWorkerFunction(String input, BackgroundWorker worker, DoWorkEventArgs e) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 485

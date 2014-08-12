@@ -1,0 +1,34 @@
+bin\Release\Folder Listing With Size Report.exe.config
+bin\Release\Folder Listing With Size Report.exe.manifest
+bin\Release\Folder Listing With Size Report.application
+bin\Release\Folder Listing With Size Report.exe
+bin\Release\Folder Listing With Size Report.pdb
+bin\Release\Folder Listing With Size Report.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Folder_Listing_With_Size_Report.Display_Message.resources
+obj\Release\Folder_Listing_With_Size_Report.Main_Screen.resources
+obj\Release\Folder_Listing_With_Size_Report.Resources.resources
+obj\Release\Folder_Listing_With_Size_Report.Splash_Screen.resources
+obj\Release\Folder Listing With Size Report.vbproj.GenerateResource.Cache
+obj\Release\Folder Listing With Size Report.exe.manifest
+obj\Release\Folder Listing With Size Report.application
+obj\Release\Folder Listing With Size Report.exe
+obj\Release\Folder Listing With Size Report.xml
+obj\Release\Folder Listing With Size Report.pdb
+bin\Debug\Folder Listing With Size Report.exe.config
+bin\Debug\Folder Listing With Size Report.exe.manifest
+bin\Debug\Folder Listing With Size Report.application
+bin\Debug\Folder Listing With Size Report.exe
+bin\Debug\Folder Listing With Size Report.pdb
+bin\Debug\Folder Listing With Size Report.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Folder_Listing_With_Size_Report.Display_Message.resources
+obj\Debug\Folder_Listing_With_Size_Report.Main_Screen.resources
+obj\Debug\Folder_Listing_With_Size_Report.Resources.resources
+obj\Debug\Folder_Listing_With_Size_Report.Splash_Screen.resources
+obj\Debug\Folder Listing With Size Report.vbproj.GenerateResource.Cache
+obj\Debug\Folder Listing With Size Report.exe.manifest
+obj\Debug\Folder Listing With Size Report.application
+obj\Debug\Folder Listing With Size Report.exe
+obj\Debug\Folder Listing With Size Report.xml
+obj\Debug\Folder Listing With Size Report.pdb

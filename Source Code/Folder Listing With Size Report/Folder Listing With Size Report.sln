@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Folder Listing With Size Report", "Folder Listing With Size Report\Folder Listing With Size Report.vbproj", "{CCE73A55-F488-4D12-96E6-199DB99104CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCE73A55-F488-4D12-96E6-199DB99104CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE73A55-F488-4D12-96E6-199DB99104CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE73A55-F488-4D12-96E6-199DB99104CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE73A55-F488-4D12-96E6-199DB99104CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

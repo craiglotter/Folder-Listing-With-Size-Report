@@ -1,0 +1,54 @@
+#17/03/2006 10:38:04 AM - MainWorkerFunction:System.InvalidCastException: Conversion from string "XOX" to type 'Double' is not valid. ---> System.FormatException: Input string was not in a correct format.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToDouble(String Value, NumberFormatInfo NumberFormat)
+   --- End of inner exception stack trace ---
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToDouble(String Value)
+   at Folder_Listing_With_Size_Report.Main_Screen.MainWorkerFunction(String input, BackgroundWorker worker, DoWorkEventArgs e) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 539
+#17/03/2006 10:38:06 AM - MainWorkerFunction:System.InvalidCastException: Conversion from string "XOX" to type 'Double' is not valid. ---> System.FormatException: Input string was not in a correct format.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToDouble(String Value, NumberFormatInfo NumberFormat)
+   --- End of inner exception stack trace ---
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToDouble(String Value)
+   at Folder_Listing_With_Size_Report.Main_Screen.MainWorkerFunction(String input, BackgroundWorker worker, DoWorkEventArgs e) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 539
+#17/03/2006 10:39:16 AM - MainWorkerFunction:System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Int64.Parse(String s)
+   at Folder_Listing_With_Size_Report.Main_Screen.MainWorkerFunction(String input, BackgroundWorker worker, DoWorkEventArgs e) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 538
+#17/03/2006 10:39:27 AM - MainWorkerFunction:System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Int64.Parse(String s)
+   at Folder_Listing_With_Size_Report.Main_Screen.MainWorkerFunction(String input, BackgroundWorker worker, DoWorkEventArgs e) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 538
+#17/03/2006 10:39:38 AM - MainWorkerFunction:System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Int64.Parse(String s)
+   at Folder_Listing_With_Size_Report.Main_Screen.MainWorkerFunction(String input, BackgroundWorker worker, DoWorkEventArgs e) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 538
+#17/03/2006 10:39:49 AM - MainWorkerFunction:System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Int64.Parse(String s)
+   at Folder_Listing_With_Size_Report.Main_Screen.MainWorkerFunction(String input, BackgroundWorker worker, DoWorkEventArgs e) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 538
+#17/03/2006 10:40:22 AM - MainWorkerFunction:System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Double.Parse(String s)
+   at Folder_Listing_With_Size_Report.Main_Screen.MainWorkerFunction(String input, BackgroundWorker worker, DoWorkEventArgs e) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 539
+#17/03/2006 10:40:45 AM - MainWorkerFunction:System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Double.Parse(String s)
+   at Folder_Listing_With_Size_Report.Main_Screen.MainWorkerFunction(String input, BackgroundWorker worker, DoWorkEventArgs e) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 539
+#17/03/2006 11:22:49 AM - Status_Handler:System.InvalidOperationException: Cross-thread operation not valid: Control 'Status_Textbox' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.TextBoxBase.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.TextBoxBase.set_Text(String value)
+   at System.Windows.Forms.TextBox.set_Text(String value)
+   at Folder_Listing_With_Size_Report.Main_Screen.Status_Handler(String Message) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 82

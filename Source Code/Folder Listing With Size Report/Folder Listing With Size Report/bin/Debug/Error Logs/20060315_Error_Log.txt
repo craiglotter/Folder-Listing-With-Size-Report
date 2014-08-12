@@ -1,0 +1,89 @@
+#15/03/2006 09:11:16 AM - Browse_Button:System.InvalidCastException: Conversion from string "a" to type 'Integer' is not valid. ---> System.FormatException: Input string was not in a correct format.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- End of inner exception stack trace ---
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   at Folder_Listing_With_Size_Report.Main_Screen.Browse_Button_Click(Object sender, EventArgs e) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 30
+#15/03/2006 09:12:34 AM - Browse_Button:System.InvalidCastException: Conversion from string "a" to type 'Integer' is not valid. ---> System.FormatException: Input string was not in a correct format.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- End of inner exception stack trace ---
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   at Folder_Listing_With_Size_Report.Main_Screen.Browse_Button_Click(Object sender, EventArgs e) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 30
+#15/03/2006 09:13:10 AM - Browse_Button:System.InvalidCastException: Conversion from string "a" to type 'Integer' is not valid. ---> System.FormatException: Input string was not in a correct format.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- End of inner exception stack trace ---
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   at Folder_Listing_With_Size_Report.Main_Screen.Browse_Button_Click(Object sender, EventArgs e) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 30
+#15/03/2006 09:14:01 AM - Browse_Button:System.InvalidCastException: Conversion from string "a" to type 'Integer' is not valid. ---> System.FormatException: Input string was not in a correct format.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- End of inner exception stack trace ---
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   at Folder_Listing_With_Size_Report.Main_Screen.Browse_Button_Click(Object sender, EventArgs e) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 30
+#15/03/2006 09:14:26 AM - Browse_Button:System.InvalidCastException: Conversion from string "a" to type 'Integer' is not valid. ---> System.FormatException: Input string was not in a correct format.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- End of inner exception stack trace ---
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   at Folder_Listing_With_Size_Report.Main_Screen.Browse_Button_Click(Object sender, EventArgs e) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 30
+#15/03/2006 09:16:03 AM - Browse_Button:System.InvalidCastException: Conversion from string "a" to type 'Integer' is not valid. ---> System.FormatException: Input string was not in a correct format.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- End of inner exception stack trace ---
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   at Folder_Listing_With_Size_Report.Main_Screen.Browse_Button_Click(Object sender, EventArgs e) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 30
+#15/03/2006 09:16:17 AM - Browse_Button:System.InvalidCastException: Conversion from string "a" to type 'Integer' is not valid. ---> System.FormatException: Input string was not in a correct format.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- End of inner exception stack trace ---
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   at Folder_Listing_With_Size_Report.Main_Screen.Browse_Button_Click(Object sender, EventArgs e) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 30
+#15/03/2006 09:22:52 AM - Browse_Button:System.InvalidCastException: Conversion from string "a" to type 'Integer' is not valid. ---> System.FormatException: Input string was not in a correct format.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- End of inner exception stack trace ---
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   at Folder_Listing_With_Size_Report.Main_Screen.Browse_Button_Click(Object sender, EventArgs e) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 30
+#15/03/2006 09:30:45 AM - Browse_Button:System.InvalidCastException: Conversion from string "a" to type 'Integer' is not valid. ---> System.FormatException: Input string was not in a correct format.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- End of inner exception stack trace ---
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   at Folder_Listing_With_Size_Report.Main_Screen.Browse_Button_Click(Object sender, EventArgs e) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 34
+#15/03/2006 09:31:09 AM - Browse_Button:System.InvalidCastException: Conversion from string "a" to type 'Integer' is not valid. ---> System.FormatException: Input string was not in a correct format.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- End of inner exception stack trace ---
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   at Folder_Listing_With_Size_Report.Main_Screen.Browse_Button_Click(Object sender, EventArgs e) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 34
+#15/03/2006 09:33:06 AM - Browse_Button:System.InvalidCastException: Conversion from string "a" to type 'Integer' is not valid. ---> System.FormatException: Input string was not in a correct format.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- End of inner exception stack trace ---
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   at Folder_Listing_With_Size_Report.Main_Screen.Browse_Button_Click(Object sender, EventArgs e) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 34
+#15/03/2006 09:34:42 AM - Browse_Button:System.InvalidCastException: Conversion from string "a" to type 'Integer' is not valid. ---> System.FormatException: Input string was not in a correct format.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- End of inner exception stack trace ---
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   at Folder_Listing_With_Size_Report.Main_Screen.Browse_Button_Click(Object sender, EventArgs e) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 34
+#15/03/2006 09:35:19 AM - Browse_Button:System.InvalidCastException: Conversion from string "a" to type 'Integer' is not valid. ---> System.FormatException: Input string was not in a correct format.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- End of inner exception stack trace ---
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   at Folder_Listing_With_Size_Report.Main_Screen.Browse_Button_Click(Object sender, EventArgs e) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 34
+#15/03/2006 09:51:22 AM - Browse_Button:System.InvalidCastException: Conversion from string "a" to type 'Integer' is not valid. ---> System.FormatException: Input string was not in a correct format.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- End of inner exception stack trace ---
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   at Folder_Listing_With_Size_Report.Main_Screen.Browse_Button_Click(Object sender, EventArgs e) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 90
+#15/03/2006 10:18:35 AM - Directory_Exists:System.ArgumentException: The path is not of a legal form.
+   at System.IO.Path.NormalizePathFast(String path, Boolean fullCheck)
+   at System.IO.Path.GetFullPathInternal(String path)
+   at System.IO.DirectoryInfo..ctor(String path)
+   at Folder_Listing_With_Size_Report.Main_Screen.Directory_Exists(String directory_path) in C:\Work Projects\Incomplete Projects\Folder Listing With Size Report - 14 March 2006\Source Code\Folder Listing With Size Report\Folder Listing With Size Report\Main_Screen.vb:line 106

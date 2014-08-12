@@ -1,0 +1,3 @@
+APPLICATION_NAME=Folder Listing With Size Report
+EXECUTABLE=Folder Listing With Size Report.exe
+MANIFEST=http://www.commerce.uct.ac.za/Services/CodeUnit/AutoUpdate/Folder Listing With Size Report/manifest.xml
